@@ -77,13 +77,21 @@ I enjoy learning modern technologies and improving my skills through real projec
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-SultanaBristy226-181717?style=flat-square&logo=github)](https://github.com/SultanaBristy226)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultana_Bristy-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sultana-bristy/)
-[![Email](https://img.shields.io/badge/Email-bristysultana4@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:bristysultana4@gmail.com)
-
----
+<p align="center">
+  <a href="https://github.com/SultanaBristy226">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="filter: invert(1);"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sultana-bristy/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:bristysultana4@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+  </a>
+</p>
 
 <div align="center">
   
