@@ -17,16 +17,27 @@
 ## 👩‍💻 About Me
 
 
-class WebDeveloper:
-    def __init__(self):
-        self.name = "Habiba Sultana Bristy"
-        self.role = "Aspiring Web Developer"
-        self.location = "Bangladesh"
-        self.skills = ["Python", "JavaScript", "HTML", "CSS", "React"]
-        self.learning = ["Node.js", "MongoDB"]
-    
-    def say_hi(self):
-        print("Building the web, one line at a time! ✨")
+
+<div align="center">
+  
+**Habiba Sultana Bristy**
+  
+*Aspiring Web Developer | Programmer | Tech Enthusiast*
+
+📍 Bangladesh &nbsp;|&nbsp; 💻 Web Development &nbsp;|&nbsp; 🚀 Always Learning
+
+</div>
+
+I'm passionate about creating web experiences that are both beautiful and functional. My journey in web development started with curiosity and has grown into a commitment to building quality digital solutions.
+
+**What I'm currently up to:**
+- 🎯 Building responsive web projects
+- 📚 Mastering JavaScript frameworks
+- 🤝 Seeking collaboration opportunities
+
+---
+
+🎯 **Goal:** To become a skilled Full-Stack Developer who creates meaningful impact through code.
 ## 🛠️ Technical Skills
 
 <p align="center">  
@@ -83,22 +94,22 @@ class WebDeveloper:
 
 <p align="center">
   <a href="https://github.com/SultanaBristy226">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" width="35"/>
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sultana-bristy/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:bristysultana4@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35"/>
   </a>
 </p>
 
 <div align="center">
 
 ---
-  
+
 ⭐ *Thanks for visiting my profile! Feel free to connect with me.* ⭐
 
 </div>
