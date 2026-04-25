@@ -20,13 +20,6 @@
 
 <div align="center">
   
-**Habiba Sultana Bristy**
-  
-*Aspiring Web Developer | Programmer | Tech Enthusiast*
-
-📍 Bangladesh &nbsp;|&nbsp; 💻 Web Development &nbsp;|&nbsp; 🚀 Always Learning
-
-</div>
 
 I'm passionate about creating web experiences that are both beautiful and functional. My journey in web development started with curiosity and has grown into a commitment to building quality digital solutions.
 
