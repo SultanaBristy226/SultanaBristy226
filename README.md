@@ -16,11 +16,8 @@
 
 ## 👩‍💻 About Me
 
-
-
 <div align="center">
   
-
 I'm passionate about creating web experiences that are both beautiful and functional. My journey in web development started with curiosity and has grown into a commitment to building quality digital solutions.
 
 **What I'm currently up to:**
@@ -28,9 +25,12 @@ I'm passionate about creating web experiences that are both beautiful and functi
 - 📚 Mastering JavaScript frameworks
 - 🤝 Seeking collaboration opportunities
 
+🎯 **Goal:** To become a skilled Full-Stack Developer who creates meaningful impact through code.
+
+</div>
+
 ---
 
-🎯 **Goal:** To become a skilled Full-Stack Developer who creates meaningful impact through code.
 ## 🛠️ Technical Skills
 
 <p align="center">  
@@ -40,16 +40,15 @@ I'm passionate about creating web experiences that are both beautiful and functi
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-</p>
-
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="filter: invert(1);"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
 </p>
+
+---
+
 ## 🚀 Current Focus
 
 - ✅ Building responsive websites
@@ -87,15 +86,15 @@ I'm passionate about creating web experiences that are both beautiful and functi
 
 <p align="center">
   <a href="https://github.com/SultanaBristy226">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="35"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sultana-bristy/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:bristysultana4@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
