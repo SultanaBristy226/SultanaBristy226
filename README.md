@@ -1,25 +1,27 @@
 # Habiba Sultana Bristy
 
-### Web Developer | Programmer | Tech Enthusiast
+### Aspiring Web Developer | Programmer | Tech Enthusiast
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-bristysultana4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bristysultana4@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-01837499226-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:01837499226)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bristy-cse)
+[![Email](https://img.shields.io/badge/Email-bristysultana4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bristysultana4@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-SultanaBristy226-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SultanaBristy226)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultana_Bristy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultana-bristy/)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 📍 About Me
 
-I'm a passionate programmer and web developer focused on building responsive, user-friendly web applications. Currently expanding my skills in modern JavaScript frameworks and backend technologies.
+**Habiba Sultana Bristy** – passionate web developer with a strong interest in building clean, responsive, and user-friendly websites.  
+I enjoy learning modern technologies and improving my skills through real projects.
 
-**What I do:**
-- Build responsive websites
-- Write clean, efficient code
-- Continuously learn new technologies
+- 🔭 Currently working on **web development projects**
+- 🌱 Learning **JavaScript, React & backend development**
+- 🎯 Goal: Become a **Full-Stack Developer**
+- 🤝 Open to collaboration and learning opportunities
+- 📍 Based in **Bangladesh**
 
 ---
 
@@ -27,10 +29,28 @@ I'm a passionate programmer and web developer focused on building responsive, us
 
 | Category | Technologies |
 |----------|--------------|
-| Frontend | HTML5, CSS3, JavaScript |
-| Programming | Python, C++ |
-| Tools | Git, VS Code |
-| Other | Machine Learning Basics |
+| **Languages** | HTML5 • CSS3 • JavaScript • Python |
+| **Tools** | Git • GitHub • VS Code |
+| **Currently Learning** | React • Node.js • MongoDB |
+
+---
+
+## 🚀 Current Focus
+
+- ✅ Building responsive websites
+- ✅ Improving JavaScript skills
+- ✅ Learning modern frontend frameworks
+- ✅ Exploring backend development
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **Portfolio Website** | Personal portfolio showcasing my work |
+| **SkillSwap Project** | Collaborative learning platform |
+| **Tea House UI** | Modern tea shop website design |
 
 ---
 
@@ -38,9 +58,11 @@ I'm a passionate programmer and web developer focused on building responsive, us
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bristy-cse&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SultanaBristy226&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bristy-cse&layout=compact&theme=radical&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SultanaBristy226&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SultanaBristy226&theme=radical&hide_border=true&background=0D1117)
 
 </div>
 
@@ -48,16 +70,18 @@ I'm a passionate programmer and web developer focused on building responsive, us
 
 ## 📫 Let's Connect
 
-- **Email:** bristysultana4@gmail.com
-- **Phone:** 01837499226
-- **GitHub:** github.com/bristy-cse
-
-*Open for collaboration, internships, and tech discussions*
+[![GitHub](https://img.shields.io/badge/GitHub-SultanaBristy226-181717?style=flat-square&logo=github)](https://github.com/SultanaBristy226)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultana_Bristy-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/sultana-bristy/)
+[![Email](https://img.shields.io/badge/Email-bristysultana4@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:bristysultana4@gmail.com)
 
 ---
 
 <div align="center">
   
-**📧 bristysultana4@gmail.com | 📞 01837499226**
+**📧 bristysultana4@gmail.com** | **🐙 github.com/SultanaBristy226** | **💼 linkedin.com/in/sultana-bristy**
+
+---
+  
+⭐ *Thanks for visiting my profile! Feel free to connect with me.* ⭐
 
 </div>
