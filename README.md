@@ -1,29 +1,31 @@
 # Habiba Sultana Bristy
-
-### Aspiring Web Developer | Programmer | Tech Enthusiast
-
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-bristysultana4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bristysultana4@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-SultanaBristy226-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SultanaBristy226)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultana_Bristy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultana-bristy/)
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/> Habiba Sultana Bristy
+
+### 💻 Aspiring Web Developer | 🚀 Programmer | 🌟 Tech Enthusiast
+
+[![GitHub](https://img.shields.io/badge/GitHub-SultanaBristy226-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SultanaBristy226)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultana_Bristy-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultana-bristy/)
+[![Email](https://img.shields.io/badge/Email-bristysultana4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bristysultana4@gmail.com)
 
 </div>
 
 ---
 
-## 📍 About Me
+### 👩‍💻 **About Me**
 
-**Habiba Sultana Bristy** – passionate web developer with a strong interest in building clean, responsive, and user-friendly websites.  
-I enjoy learning modern technologies and improving my skills through real projects.
 
-- 🔭 Currently working on **web development projects**
-- 🌱 Learning **JavaScript, React & backend development**
-- 🎯 Goal: Become a **Full-Stack Developer**
-- 🤝 Open to collaboration and learning opportunities
-- 📍 Based in **Bangladesh**
-
----
+class WebDeveloper:
+    def __init__(self):
+        self.name = "Habiba Sultana Bristy"
+        self.role = "Aspiring Web Developer"
+        self.location = "Bangladesh"
+        self.skills = ["Python", "JavaScript", "HTML", "CSS", "React"]
+        self.learning = ["Node.js", "MongoDB"]
+    
+    def say_hi(self):
+        print("Building the web, one line at a time! ✨")
 
 ## 🛠️ Technical Skills
 
