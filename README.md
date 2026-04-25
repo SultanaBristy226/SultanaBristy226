@@ -81,7 +81,7 @@ I enjoy learning modern technologies and improving my skills through real projec
 
 <p align="center">
   <a href="https://github.com/SultanaBristy226">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="filter: invert(1);"/>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png" width="35"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/sultana-bristy/">
