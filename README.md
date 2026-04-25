@@ -1,7 +1,8 @@
-# Habiba Sultana Bristy
 <div align="center">
   
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/> Habiba Sultana Bristy
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/> 
+
+# Habiba Sultana Bristy
 
 ### 💻 Aspiring Web Developer | 🚀 Programmer | 🌟 Tech Enthusiast
 
@@ -13,7 +14,7 @@
 
 ---
 
-### 👩‍💻 **About Me**
+## 👩‍💻 About Me
 
 
 class WebDeveloper:
@@ -26,10 +27,9 @@ class WebDeveloper:
     
     def say_hi(self):
         print("Building the web, one line at a time! ✨")
-
 ## 🛠️ Technical Skills
 
-<p align="center">
+<p align="center">  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -96,8 +96,6 @@ class WebDeveloper:
 </p>
 
 <div align="center">
-  
-**📧 bristysultana4@gmail.com** | **🐙 github.com/SultanaBristy226** | **💼 linkedin.com/in/sultana-bristy**
 
 ---
   
