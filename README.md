@@ -1,69 +1,63 @@
 # Habiba Sultana Bristy
 
-### Aspiring Web Developer | Programmer | Tech Enthusiast
+### Web Developer | Programmer | Tech Enthusiast
 
-📍 Bangladesh  
-📧 bristysultana4@gmail.com  
-🐙 GitHub: https://github.com/SultanaBristy226  
-💼 LinkedIn: https://www.linkedin.com/in/sultana-bristy/
+<div align="center">
+  
+[![Email](https://img.shields.io/badge/Email-bristysultana4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bristysultana4@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-01837499226-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:01837499226)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bristy-cse)
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-Passionate web developer with a strong interest in building clean, responsive, and user-friendly websites.  
-I enjoy learning modern technologies and improving my skills through real projects.
+I'm a passionate programmer and web developer focused on building responsive, user-friendly web applications. Currently expanding my skills in modern JavaScript frameworks and backend technologies.
 
-- 🔭 Currently Student & working on web development projects  
-- 🌱 Learning JavaScript, React & backend development  
-- 🎯 Goal: Become a Full-Stack Developer  
-- 🤝 Open to collaboration and learning opportunities  
-
----
-
-## 🛠️ Skills
-
-### Languages
-HTML5 • CSS3 • JavaScript • Python • c/c++
-
-### Tools
-Git • GitHub • VS Code
-
-### Learning
-React • Node.js • MongoDB 
+**What I do:**
+- Build responsive websites
+- Write clean, efficient code
+- Continuously learn new technologies
 
 ---
 
-## 🚀 Current Focus
+## 🛠️ Technical Skills
 
-- Building responsive websites  
-- Improving JavaScript skills  
-- Learning modern frontend frameworks  
-- Exploring backend development  
-
----
-
-## 📌 Featured Projects
-
-- 💼 Portfolio Website  
-- 🌐 SkillSwap Project  
-- ☕ Tea House UI
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SultanaBristy226&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SultanaBristy226&layout=compact&theme=default)
+| Category | Technologies |
+|----------|--------------|
+| Frontend | HTML5, CSS3, JavaScript |
+| Programming | Python, C++ |
+| Tools | Git, VS Code |
+| Other | Machine Learning Basics |
 
 ---
 
-## 📫 Connect With Me
+## 📊 GitHub Analytics
 
-• [GitHub](https://github.com/SultanaBristy226) 
-• [LinkedIn](https://www.linkedin.com/in/sultana-bristy/) 
-• [Email](mailto:bristysultana4@gmail.com)
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bristy-cse&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bristy-cse&layout=compact&theme=radical&hide_border=true)
+
+</div>
 
 ---
 
-⭐ Thanks for visiting my profile!
+## 📫 Let's Connect
+
+- **Email:** bristysultana4@gmail.com
+- **Phone:** 01837499226
+- **GitHub:** github.com/bristy-cse
+
+*Open for collaboration, internships, and tech discussions*
+
+---
+
+<div align="center">
+  
+**📧 bristysultana4@gmail.com | 📞 01837499226**
+
+</div>
