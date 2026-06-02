@@ -1,32 +1,30 @@
-<h2>🛠️ Tech Stack</h2>
+name: Generate Snake
 
-<h3>💻 Languages</h3>
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html" />
-</p>
+permissions:
+  contents: write
 
-<h3>🎨 Frontend</h3>
+jobs:
+  generate:
+    runs-on: ubuntu-latest
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: SultanaBristy226
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-<h3>⚙️ Backend & Database</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-</p>
-
-<h3>🚀 Deployment & Cloud</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-</p>
-
-<h3>🧰 Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,vscode" />
-</p>
+      - name: Push snake animation to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
