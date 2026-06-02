@@ -1,14 +1,13 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Habiba+Sultana+Bristy;Aspiring+Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Passionate+About+Building+Web+Applications;Always+Learning+New+Technologies" />
+#  Habiba Sultana Bristy
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Habiba+Sultana+Bristy;Aspiring+software+ engineer +full Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Passionate+About+Building+Web+Applications;Always+Learning+New+Technologies" />
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=SultanaBristy226&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 
-# 💖 Habiba Sultana Bristy
 
-### 💻 Aspiring Full Stack Developer | 🚀 Programmer | 🌟 Tech Enthusiast
+### 💻 Aspiring Software Engineer | full steck developer | 🌟 Tech Enthusiast
 
 <a href="https://github.com/SultanaBristy226">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -32,7 +31,7 @@
 
 🌱 Currently learning advanced React and backend technologies.
 
-🎯 Goal: Become a skilled Full-Stack Developer and contribute to impactful projects.
+🎯 Goal: Become a skilled software engineer |  Full-Stack Developer and contribute to impactful projects.
 
 💡 Love solving problems through code and continuously exploring new technologies.
 
@@ -101,39 +100,17 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SultanaBristy226&theme=radical&no-frame=true&row=1&column=6" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=SultanaBristy226&show_icons=true&theme=tokyonight)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SultanaBristy226&layout=compact&theme=tokyonight)
 
-# 📊 GitHub Analytics
+![Streak](https://streak-stats.demolab.com?user=SultanaBristy226&theme=tokyonight)
 
-<div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SultanaBristy226&show_icons=true&theme=radical&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultanaBristy226&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SultanaBristy226&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-[![Bristy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SultanaBristy226&theme=react-dark&hide_border=true)](https://github.com/SultanaBristy226)
-
----
-
-# 🐍 Contribution Snake
+#  Contribution 
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/SultanaBristy226/SultanaBristy226/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
