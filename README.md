@@ -1,14 +1,26 @@
 <div align="center">
-  
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/> 
 
-# Habiba Sultana Bristy
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=Hi+👋,+I'm+Habiba+Sultana+Bristy;Aspiring+Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Passionate+About+Building+Web+Applications;Always+Learning+New+Technologies" />
 
-### 💻 Aspiring Web Developer | 🚀 Programmer | 🌟 Tech Enthusiast
+<br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-SultanaBristy226-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SultanaBristy226)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sultana_Bristy-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultana-bristy/)
-[![Email](https://img.shields.io/badge/Email-bristysultana4@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:bristysultana4@gmail.com)
+<img src="https://komarev.com/ghpvc/?username=SultanaBristy226&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+
+# 💖 Habiba Sultana Bristy
+
+### 💻 Aspiring Full Stack Developer | 🚀 Programmer | 🌟 Tech Enthusiast
+
+<a href="https://github.com/SultanaBristy226">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sultana-bristy/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bristysultana4@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -16,92 +28,153 @@
 
 ## 👩‍💻 About Me
 
-<div align="center">
-  
-I'm passionate about creating web experiences that are both beautiful and functional. My journey in web development started with curiosity and has grown into a commitment to building quality digital solutions.
+✨ Passionate about creating beautiful and functional web applications.
 
-**What I'm currently up to:**
-- 🎯 Building responsive web projects
-- 📚 Mastering JavaScript frameworks
-- 🤝 Seeking collaboration opportunities
+🌱 Currently learning advanced React and backend technologies.
 
-🎯 **Goal:** To become a skilled Full-Stack Developer who creates meaningful impact through code.
+🎯 Goal: Become a skilled Full-Stack Developer and contribute to impactful projects.
 
-</div>
+💡 Love solving problems through code and continuously exploring new technologies.
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
-<p align="center">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-</p>
-
----
-
-## 🚀 Current Focus
-
-- ✅ Building responsive websites
-- ✅ Improving JavaScript skills
-- ✅ Learning modern frontend frameworks
-- ✅ Exploring backend development
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| **Portfolio Website** | Personal portfolio showcasing my work |
-| **SkillSwap Project** | Collaborative learning platform |
-| **Tea House UI** | Modern tea shop website design |
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SultanaBristy226&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SultanaBristy226&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SultanaBristy226&theme=radical&hide_border=true&background=0D1117)
-
-</div>
-
----
-
-## 📫 Connect With Me
+### 💻 Languages
 
 <p align="center">
-  <a href="https://github.com/SultanaBristy226">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/sultana-bristy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:bristysultana4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,html" />
 </p>
 
-<div align="center">
+### 🎨 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### ⚙️ Backend & Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### ☁️ Deployment & Cloud
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel"/>
+
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+</p>
+
+### 🧰 Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,vscode,figma" />
+</p>
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to connect with me.* ⭐
+# 🚀 Current Focus
+
+- 🌱 Learning Full Stack Development
+- ⚛️ Building React Applications
+- 🔥 Improving Problem Solving Skills
+- ☁️ Exploring Backend & Deployment
+- 🤝 Open to Collaboration Opportunities
+
+---
+
+# 📌 Featured Projects
+
+| Project | Description |
+|----------|------------|
+| 🚀 StudyNook | Study room booking platform |
+| 🤝 SkillSwap | Collaborative learning platform |
+| ☕ Tea House UI | Modern tea shop website design |
+| 💼 Portfolio Website | Personal portfolio showcasing projects |
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SultanaBristy226&theme=radical&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SultanaBristy226&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultanaBristy226&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SultanaBristy226&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+[![Bristy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SultanaBristy226&theme=react-dark&hide_border=true)](https://github.com/SultanaBristy226)
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/SultanaBristy226/SultanaBristy226/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+---
+
+# ✍️ Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/SultanaBristy226">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sultana-bristy/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:bristysultana4@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for Visiting My Profile ⭐
+
+_"Code. Learn. Build. Repeat."_ 🚀
 
 </div>
