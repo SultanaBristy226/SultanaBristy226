@@ -107,23 +107,13 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📈 GitHub Stats
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SultanaBristy226&show_icons=true&theme=default)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SultanaBristy226&show_icons=true&theme=tokyonight&hide_border=true"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SultanaBristy226&layout=compact&theme=default)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultanaBristy226&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SultanaBristy226&theme=tokyonight&hide_border=true"/>
-
-</div>
+---
 
 ---
 
